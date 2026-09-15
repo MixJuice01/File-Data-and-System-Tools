@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <RootNamespace>ikousoft</RootNamespace>
+    <AssemblyName>ikousoft</AssemblyName>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    
+    <!-- 旧環境（AssemblyInfo.cs）との属性重複エラーを防止 -->
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    
+    <!-- MSB3823 対策：画像等の非テキストリソース処理を有効化 -->
+    <GenerateResourceUsePreserializedResources>true</GenerateResourceUsePreserializedResources>
+  </PropertyGroup>
+
+  <!-- MSB3822 対策：必要なリソース拡張パッケージの読み込み -->
+  <ItemGroup>
+    <PackageReference Include="System.Resources.Extensions" Version="8.0.0" />
+  </ItemGroup>
+
+</Project>
