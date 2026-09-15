@@ -1,0 +1,214 @@
+Adobe Refresh Manager
+BurnAware Free 19.1
+ClickOnce Bootstrapper Package for Microsoft .NET Framework
+Copilot
+CyberLink PhotoDirector 365
+CyberLink PowerDirector 365
+EaseUS Todo PCTrans 14.2.3
+Entity Framework 6.5.0 Tools  for Visual Studio 2022
+Google Chrome
+HD Video Converter Factory 27.9
+icecap_collection_neutral
+icecap_collection_x64
+icecap_collectionresources
+icecap_collectionresourcesx64
+Inno Setup バージョン 6.2.1
+Intel(R) Wireless Bluetooth(R)
+Intel® Software Installer
+IntelliTraceProfilerProxy
+Kits Configuration Installer
+LetsView V1.3.8
+Microsoft .NET Compact Framework 1.0 SP3
+Microsoft .NET CoreRuntime For CoreCon
+Microsoft .NET CoreRuntime SDK
+Microsoft .NET Framework 4.6 Targeting Pack
+Microsoft .NET Framework 4.6.2 Targeting Pack
+Microsoft .NET Framework 4.6.2 Targeting Pack (日本語)
+Microsoft .NET Framework 4.7.1 Doc Redirected Targeting Pack (日本語)
+Microsoft .NET Framework 4.7.1 Targeting Pack
+Microsoft .NET Framework 4.7.2 Targeting Pack
+Microsoft .NET Framework 4.7.2 Targeting Pack (日本語)
+Microsoft .NET Framework 4.8 SDK
+Microsoft .NET Framework 4.8 SDK (日本語)
+Microsoft .NET Framework 4.8 Targeting Pack
+Microsoft .NET Framework 4.8 Targeting Pack (日本語)
+Microsoft .NET Framework Cumulative Intellisense Pack for Visual Studio (日本語)
+Microsoft .NET Host - 10.0.8 (x86)
+Microsoft .NET Host - 9.0.16 (x86)
+Microsoft .NET Host FX Resolver - 10.0.8 (x86)
+Microsoft .NET Host FX Resolver - 9.0.16 (x86)
+Microsoft .NET Native SDK
+Microsoft .NET Runtime - 10.0.8 (x86)
+Microsoft .NET Runtime - 10.0.9 (x64)
+Microsoft .NET Runtime - 8.0.27 (x86)
+Microsoft .NET Runtime - 9.0.16 (x86)
+Microsoft .NET SDK 10.0.109 (x64)
+Microsoft .NET Targeting Pack - 10.0.8 (x86)
+Microsoft .NET Targeting Pack - 8.0.27 (x86)
+Microsoft .NET Targeting Pack - 9.0.16 (x86)
+Microsoft ASP.NET Core 8.0.27 Shared Framework (x86)
+Microsoft ASP.NET Core 8.0.27 Targeting Pack (x86)
+Microsoft ASP.NET Core 9.0.16 Shared Framework (x86)
+Microsoft ASP.NET Core 9.0.16 Targeting Pack (x86)
+Microsoft ASP.NET Core 9.0.17 - Shared Framework (x64)
+Microsoft ASP.NET Core Runtime - 10.0.8 (x86)
+Microsoft ASP.NET Core Targeting Pack - 10.0.8 (x86)
+Microsoft ASP.NET Diagnostic Pack for Visual Studio
+Microsoft ASP.NET Web Tools Packages 17.0 - ENU
+Microsoft ASP.NET Web Tools Packages 17.0 - JPN
+Microsoft ASP.NET Web Tools Packages 18.0 - ENU
+Microsoft ASP.NET Web Tools Packages 18.0 - JPN
+Microsoft Edge
+Microsoft Edge WebView2 Runtime
+Microsoft Exchange Web Services Managed API 2.1
+Microsoft Help Viewer 2.3
+Microsoft NetStandard SDK
+Microsoft TestPlatform SDK Local Feed
+Microsoft UniversalWindowsPlatform SDK
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030
+Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.51.36231
+Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.51.36231
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.51.36231
+Microsoft Visual C++ 2022 X86 Debug Runtime - 14.51.36231
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.51.36231
+Microsoft Visual Studio Setup Configuration
+Microsoft Visual Studio Setup WMI Provider
+Microsoft Windows Communication Foundation Diagnostic Pack for x86
+Microsoft Windows Desktop Runtime - 10.0.8 (x86)
+Microsoft Windows Desktop Runtime - 8.0.27 (x86)
+Microsoft Windows Desktop Runtime - 8.0.28 (x64)
+Microsoft Windows Desktop Runtime - 9.0.16 (x86)
+Microsoft Windows Desktop Targeting Pack - 10.0.8 (x86)
+Microsoft Windows Desktop Targeting Pack - 8.0.27 (x86)
+Microsoft Windows Desktop Targeting Pack - 9.0.16 (x86)
+Microsoft Workflow Debugger v1.0 for x86
+Microsoft Workflow Diagnostic Pack for x64
+Microsoft ヘルプ ビューアー 2.3 Language Pack - 日本語
+MOS Excel 365 模擬試験プログラム
+MSI Development Tools
+Npcap
+OBS Studio
+Open XML SDK 2.5 for Microsoft Office
+PowerShell 7.5.5.0-x64
+PowerShell 7.6.4.0-x64
+Python Launcher
+Remoted iOS Simulator for Visual Studio
+sakura editor(サクラエディタ)
+SDK ARM64 Additions
+SDK ARM64 Redistributables
+sptools_Microsoft.VisualStudio.OfficeDeveloperTools.Msi
+sptools_Microsoft.VisualStudio.Vsto.Msi
+sptools_Microsoft.VisualStudio.Vsto.Msi.Resources
+sptools_Microsoft.VisualStudio.Vsto.Msi.x64
+SQL Server 2022 用ブラウザー
+SQL Server Management Studio 21
+SQL Server Management Studio 22
+TeraPad
+Thonny 4.1.7
+Universal CRT Extension SDK
+Universal CRT Headers Libraries and Sources
+Universal CRT Redistributable
+Universal CRT Tools x86
+Universal General MIDI DLS Extension SDK
+vcpp_crt.redist.clickonce
+Visual C++ Library CRT Appx Package
+Visual C++ Library CRT Appx Resource Package
+Visual C++ Library CRT ARM64 Appx Package
+Visual C++ Library CRT Desktop Appx Package
+Visual Studio Community 2022
+Visual Studio Community 2026
+VS Immersive Activate Helper
+vs_BlendMsi
+vs_clickoncebootstrappermsi
+vs_clickoncebootstrappermsires
+vs_clickoncesigntoolmsi
+vs_codecoveragemsi
+vs_communitymsires
+vs_communitysharedmsi
+vs_CoreEditorFonts
+vs_devenvsharedmsi
+vs_filehandler_amd64
+vs_filehandler_x86
+vs_FileTracker_Singleton
+vs_githubprotocolhandlermsi
+vs_Graphics_Singletonx64
+vs_Graphics_Singletonx86
+vs_helpconfigmsi
+vs_minshellinteropsharedmsi
+vs_minshellmsires
+vs_minshellsharedmsi
+vs_SQLClickOnceBootstrappermsi
+vs_ssmsprotocolselectormsi
+vs_ssmsprotocolselectormsires
+vs_tipsmsi
+vs_vswebprotocolselectormsi
+vs_vswebprotocolselectormsires
+WavePad 音声編集ソフト
+WinAppDeploy
+Windows App Certification Kit SupportedApiList x86
+Windows App Certification Kit x64
+Windows App Certification Kit x64 (OnecoreUAP)
+Windows Desktop Extension SDK
+Windows Desktop Extension SDK Contracts
+Windows IoT Extension SDK
+Windows IoT Extension SDK Contracts
+Windows Mobile Extension SDK
+Windows Mobile Extension SDK Contracts
+Windows SDK
+Windows SDK AddOn
+Windows SDK ARM Desktop Tools
+Windows SDK ARM64 Desktop Tools
+Windows SDK Desktop Headers arm
+Windows SDK Desktop Headers arm64
+Windows SDK Desktop Headers x64
+Windows SDK Desktop Headers x86
+Windows SDK Desktop Libs arm
+Windows SDK Desktop Libs arm64
+Windows SDK Desktop Libs x64
+Windows SDK Desktop Libs x86
+Windows SDK Desktop Tools arm64
+Windows SDK Desktop Tools x64
+Windows SDK Desktop Tools x86
+Windows SDK DirectX x86 Remote
+Windows SDK EULA
+Windows SDK Facade Windows WinMD Versioned
+Windows SDK for Windows Store Apps
+Windows SDK for Windows Store Apps Contracts
+Windows SDK for Windows Store Apps DirectX x86 Remote
+Windows SDK for Windows Store Apps Headers
+Windows SDK for Windows Store Apps Headers OnecoreUap
+Windows SDK for Windows Store Apps Libs
+Windows SDK for Windows Store Apps Metadata
+Windows SDK for Windows Store Apps Tools
+Windows SDK for Windows Store Managed Apps Libs
+Windows SDK Modern Non-Versioned Developer Tools
+Windows SDK Modern Versioned Developer Tools
+Windows SDK OnecoreUap Headers arm64
+Windows SDK OnecoreUap Headers x64
+Windows SDK OnecoreUap Headers x86
+Windows SDK Redistributables
+Windows SDK Signing Tools
+Windows Software Development Kit - Windows 10.0.22621.5040
+Windows Software Development Kit - Windows 10.0.26100.7705
+Windows Software Development Kit - Windows 10.0.26100.8249
+Windows Team Extension SDK
+Windows Team Extension SDK Contracts
+windows_toolscorepkg
+WinRT Intellisense Desktop - en-us
+WinRT Intellisense Desktop - Other Languages
+WinRT Intellisense IoT - en-us
+WinRT Intellisense IoT - Other Languages
+WinRT Intellisense Mobile - en-us
+WinRT Intellisense PPI - en-us
+WinRT Intellisense PPI - Other Languages
+WinRT Intellisense UAP - en-us
+WinRT Intellisense UAP - Other Languages
+WinX DVD Ripper Platinum 8.22.0
+Wireshark 4.6.0 x64
+WPT Redistributables
+WPTx64 (DesktopEditions)
+WPTx64 (OnecoreUAP)
+ZBar Bar Code Reader
+季節判定プログラム バージョン 1.0
