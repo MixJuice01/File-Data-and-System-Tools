@@ -1,0 +1,15 @@
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\bin\Release\ikousoft.exe.config
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\bin\Release\ikousoft.exe
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\bin\Release\ikousoft.pdb
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\obj\Release\ikousoft.csproj.AssemblyReference.cache
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\obj\Release\ikousoft.Form1.resources
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\obj\Release\ikousoft.Form2.resources
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\obj\Release\ikousoft.Properties.Resources.resources
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\obj\Release\ikousoft.csproj.GenerateResource.cache
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\obj\Release\ikousoft.csproj.CoreCompileInputs.cache
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\obj\Release\ikousoft.exe
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\obj\Release\ikousoft.pdb
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\obj\Release\ikousoft.exe.config
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\obj\Release\ikousoft.Form3.resources
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\obj\Release\ikousoft.Form4.resources
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\obj\Release\ikousoft.title.resources

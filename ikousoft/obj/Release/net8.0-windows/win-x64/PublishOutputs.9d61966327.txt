@@ -1,0 +1,8 @@
+C:\publish\ikousoft.pdb
+C:\publish\D3DCompiler_47_cor3.dll
+C:\publish\PenImc_cor3.dll
+C:\publish\PresentationNative_cor3.dll
+C:\publish\vcruntime140_cor3.dll
+C:\publish\wpfgfx_cor3.dll
+C:\publish\ikousoft.dll.config
+C:\publish\ikousoft.exe

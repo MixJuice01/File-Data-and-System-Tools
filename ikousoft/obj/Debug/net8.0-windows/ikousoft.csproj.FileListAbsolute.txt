@@ -1,0 +1,40 @@
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\bin\Debug\net8.0-windows\ikousoft.exe
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\bin\Debug\net8.0-windows\ikousoft.dll.config
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\bin\Debug\net8.0-windows\ikousoft.deps.json
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\bin\Debug\net8.0-windows\ikousoft.runtimeconfig.json
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\bin\Debug\net8.0-windows\ikousoft.dll
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\bin\Debug\net8.0-windows\ikousoft.pdb
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\obj\Debug\net8.0-windows\ikousoft.Form1.resources
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\obj\Debug\net8.0-windows\ikousoft.Form2.resources
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\obj\Debug\net8.0-windows\ikousoft.Form3.resources
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\obj\Debug\net8.0-windows\ikousoft.Form4.resources
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\obj\Debug\net8.0-windows\ikousoft.Properties.Resources.resources
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\obj\Debug\net8.0-windows\ikousoft.title.resources
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\obj\Debug\net8.0-windows\ikousoft.csproj.GenerateResource.cache
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\obj\Debug\net8.0-windows\ikousoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\obj\Debug\net8.0-windows\ikousoft.csproj.CoreCompileInputs.cache
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\obj\Debug\net8.0-windows\ikousoft.dll
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\obj\Debug\net8.0-windows\refint\ikousoft.dll
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\obj\Debug\net8.0-windows\ikousoft.pdb
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\obj\Debug\net8.0-windows\ikousoft.genruntimeconfig.cache
+C:\Users\田中　宏樹\Desktop\ikousoft\ikousoft\obj\Debug\net8.0-windows\ref\ikousoft.dll
+C:\ikousoft\ikousoft\bin\Debug\net8.0-windows\ikousoft.exe
+C:\ikousoft\ikousoft\bin\Debug\net8.0-windows\ikousoft.dll.config
+C:\ikousoft\ikousoft\bin\Debug\net8.0-windows\ikousoft.deps.json
+C:\ikousoft\ikousoft\bin\Debug\net8.0-windows\ikousoft.runtimeconfig.json
+C:\ikousoft\ikousoft\bin\Debug\net8.0-windows\ikousoft.dll
+C:\ikousoft\ikousoft\bin\Debug\net8.0-windows\ikousoft.pdb
+C:\ikousoft\ikousoft\obj\Debug\net8.0-windows\ikousoft.Form1.resources
+C:\ikousoft\ikousoft\obj\Debug\net8.0-windows\ikousoft.Form2.resources
+C:\ikousoft\ikousoft\obj\Debug\net8.0-windows\ikousoft.Form3.resources
+C:\ikousoft\ikousoft\obj\Debug\net8.0-windows\ikousoft.Form4.resources
+C:\ikousoft\ikousoft\obj\Debug\net8.0-windows\ikousoft.Properties.Resources.resources
+C:\ikousoft\ikousoft\obj\Debug\net8.0-windows\ikousoft.title.resources
+C:\ikousoft\ikousoft\obj\Debug\net8.0-windows\ikousoft.csproj.GenerateResource.cache
+C:\ikousoft\ikousoft\obj\Debug\net8.0-windows\ikousoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\ikousoft\ikousoft\obj\Debug\net8.0-windows\ikousoft.csproj.CoreCompileInputs.cache
+C:\ikousoft\ikousoft\obj\Debug\net8.0-windows\ikousoft.dll
+C:\ikousoft\ikousoft\obj\Debug\net8.0-windows\refint\ikousoft.dll
+C:\ikousoft\ikousoft\obj\Debug\net8.0-windows\ikousoft.pdb
+C:\ikousoft\ikousoft\obj\Debug\net8.0-windows\ikousoft.genruntimeconfig.cache
+C:\ikousoft\ikousoft\obj\Debug\net8.0-windows\ref\ikousoft.dll
