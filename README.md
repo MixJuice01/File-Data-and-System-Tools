@@ -12,6 +12,10 @@
   スタートから起動しなくても、アプリ1本で修復できるように設計。<br>
   機能としては、**回復ドライブ・システムイメージ作成・ディスクチェックコマンド・sfc/scannowコマンド・回復環境**　が使えます。
 
+##3.アプリの使い方について##
+  1.アプリを起動したら下記の画面が表示されます。
+  <img width="1263" height="851" alt="ikou01" src="https://github.com/user-attachments/assets/0cf10604-7a0f-4459-a0a5-b86370213b7e" />
+
 **〇その他リンク欄**
   Discordのリンク↓<br>
   https://discord.gg/JHrNFRwCYn
