@@ -14,7 +14,7 @@
 
 ## 3.アプリの使い方について##<br>
   1.アプリを起動したら下記の画面が表示されます。<br>
-  <img width="1263" height="851" alt="ikou01" src="https://github.com/user-attachments/assets/0cf10604-7a0f-4459-a0a5-b86370213b7e" />
+  <img width="632" height="426" alt="ikou01" src="https://github.com/user-attachments/assets/0cf10604-7a0f-4459-a0a5-b86370213b7e" />
 
 **〇その他リンク欄**
   Discordのリンク↓<br>
