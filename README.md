@@ -14,8 +14,8 @@
 
 ## 3.アプリの使い方について##<br>
   1.アプリを起動したら下記の画面が表示されます。<br>
-  <img width="632" height="426" alt="ikou01" src="https://github.com/user-attachments/assets/0cf10604-7a0f-4459-a0a5-b86370213b7e" />
-　**※ファイルデータ移行機能**
+  <img width="632" height="426" alt="ikou01" src="https://github.com/user-attachments/assets/0cf10604-7a0f-4459-a0a5-b86370213b7e" /><br>
+　**※ファイルデータ移行機能**<br>
   2.ファイルデータ移行ボタンを押してください<br>
 **〇その他リンク欄**
   Discordのリンク↓<br>
