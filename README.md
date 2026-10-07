@@ -19,10 +19,10 @@
   <img width="632" height="426" alt="ikou01" src="https://github.com/user-attachments/assets/0cf10604-7a0f-4459-a0a5-b86370213b7e" /><br>
 　**※ファイルデータ移行機能**<br>
   2.ファイルデータ移行ボタンを押してください<br>
-   <img width="632" height="426" alt="ikou02" src="https://github.com/user-attachments/assets/6db71a5a-a3af-480f-b9f8-95ebd426f56e" />
-**〇その他リンク欄**
+   <img width="632" height="426" alt="ikou02" src="https://github.com/user-attachments/assets/6db71a5a-a3af-480f-b9f8-95ebd426f56e" /><br>
+**〇その他リンク欄**<br>
   Discordのリンク↓<br>
-  https://discord.gg/JHrNFRwCYn
+  https://discord.gg/JHrNFRwCYn<br>
 
 　
 
