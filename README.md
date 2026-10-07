@@ -20,9 +20,9 @@
 　**※ファイルデータ移行機能**<br>
   2.ファイルデータ移行ボタンを押してください<br>
    <img width="632" height="426" alt="ikou02" src="https://github.com/user-attachments/assets/6db71a5a-a3af-480f-b9f8-95ebd426f56e" /><br>
-  3.下記のような画面が表示されます。
+  3.下記のような画面が表示されます。<br>
    <img width="632" height="426" alt="移行ソフト画面" src="https://github.com/user-attachments/assets/2cb4aebb-5c40-452c-99b1-5d47c85fdc63" /><br>
-  4.移行開始ボタンを押しましょう。
+  4.移行開始ボタンを押しましょう。<br>
   <img width="1735" height="889" alt="移行ソフト画面2" src="https://github.com/user-attachments/assets/56d38af5-be4e-4d0d-8ec0-6607bf183ea0" /><br>
 
 **〇その他リンク欄**<br>
