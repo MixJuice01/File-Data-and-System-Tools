@@ -22,14 +22,15 @@
    <img width="632" height="426" alt="ikou02" src="https://github.com/user-attachments/assets/6db71a5a-a3af-480f-b9f8-95ebd426f56e" /><br>
   3.下記のような画面が表示されます。<br>
    <img width="632" height="426" alt="移行ソフト画面" src="https://github.com/user-attachments/assets/2cb4aebb-5c40-452c-99b1-5d47c85fdc63" /><br>
-  4.移行開始ボタンを押しましょう。<br>
+  4.PC内のデータ移行ボタンを押しましょう。<br>
   <img width="632" height="426" alt="移行ソフト画面2" src="https://github.com/user-attachments/assets/56d38af5-be4e-4d0d-8ec0-6607bf183ea0" /><br>
   5.アカウント（ユーザ）もしくは、ドライブで選べます。
   <img width="632" height="626" alt="スクリーンショット-2026-07-07-202738" src="https://github.com/user-attachments/assets/56a1ce7f-95fd-4e59-9291-54786bc22e03" /><br>
 　6.選択すると下記のように、ファイル一覧が表示されます。
  <img width="632" height="426" alt="スクリーンショット-2026-07-07-203317" src="https://github.com/user-attachments/assets/b3181369-d08a-4f23-a45a-fda3d7c4d773" /><br>
   7.ファイルデータ移行もしくは、削除の場合は、チェックボックスにより、選択が可能です。　複数もOKです。
-<img width="632" height="426" alt="スクリーンショット-2026-07-07-204352" src="https://github.com/user-attachments/assets/77e49da9-b9c3-416b-824c-20cc68b60a56" />
+<img width="632" height="426" alt="スクリーンショット-2026-07-07-204352" src="https://github.com/user-attachments/assets/77e49da9-b9c3-416b-824c-20cc68b60a56" /><br>
+ ※今回画像は載せていませんが、移行開始ボタンを押すと、データが移行できます。
 
 **〇その他リンク欄**<br>
   Discordのリンク↓<br>
