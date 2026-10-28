@@ -1,5 +1,5 @@
-
-
+  Discordのリンク↓<br>
+  https://discord.gg/PaE7tm2WCp<br>
 # ファイルデータ移行＆システムツール<br>
 ## 1.アプリ概要<br>
 本アプリは、初心者でもファイルデータの移行やWindowsのシステムの修復ができるようにしたアプリです。<br>
@@ -32,9 +32,7 @@
 <img width="632" height="426" alt="スクリーンショット-2026-07-07-204352" src="https://github.com/user-attachments/assets/77e49da9-b9c3-416b-824c-20cc68b60a56" /><br>
  ※今回画像は載せていませんが、移行開始ボタンを押すと、データが移行できます。
 
-**〇その他リンク欄**<br>
-  Discordのリンク↓<br>
-  https://discord.gg/JHrNFRwCYn<br>
+
 
 　
 
